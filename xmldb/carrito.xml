@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<carritos>
+    <producto id_producto="3">
+        <nombre>XBOX X</nombre>
+        <precio_item>
+            <precio>550</precio>
+            <moneda>EUR</moneda>
+            <cantidad>2</cantidad>
+            <total>1100</total>
+        </precio_item>
+    </producto>
+    <producto id_producto="2">
+        <nombre>PlayStation 5</nombre>
+        <precio_item>
+            <precio>500</precio>
+            <moneda>EUR</moneda>
+            <cantidad>1</cantidad>
+            <total>500</total>
+        </precio_item>
+    </producto>
+</carritos>

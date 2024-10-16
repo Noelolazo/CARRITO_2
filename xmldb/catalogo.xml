@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<catalogo>
+    <producto id_producto="1">
+        <nombre>Nintendo Switch</nombre>
+        <stock>30</stock>
+        <precio_item>
+            <precio>300</precio>
+            <moneda>EUR</moneda>
+        </precio_item>
+    </producto>
+    <producto id_producto="2">
+        <nombre>PlayStation 5</nombre>
+        <stock>3</stock>
+        <precio_item>
+            <precio>500</precio>
+            <moneda>EUR</moneda>
+        </precio_item>
+    </producto>
+    <producto id_producto="3">
+        <nombre>XBOX X</nombre>
+        <stock>13</stock>
+        <precio_item>
+            <precio>550</precio>
+            <moneda>EUR</moneda>
+        </precio_item>
+    </producto>
+    <producto id_producto="4">
+        <nombre>PlayStation 4</nombre>
+        <stock>50</stock>
+        <precio_item>
+            <precio>300</precio>
+            <moneda>EUR</moneda>
+        </precio_item>
+    </producto>
+    <producto id_producto="5">
+        <nombre>Nintendo Switch Lite</nombre>
+        <stock>5</stock>
+        <precio_item>
+            <precio>200</precio>
+            <moneda>EUR</moneda>
+        </precio_item>
+    </producto>
+</catalogo>
